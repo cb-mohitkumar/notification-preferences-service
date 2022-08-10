@@ -3,7 +3,6 @@ package com.cb.notificationpreferencesservice.beans.dto.config;
 import com.cb.notificationpreferencesservice.beans.NotificationPreference;
 import com.cb.notificationpreferencesservice.beans.config.CbConfig;
 import com.cb.notificationpreferencesservice.beans.enums.ConfigType;
-import com.cb.notificationpreferencesservice.beans.enums.NotificationType;
 import lombok.Data;
 
 import javax.validation.constraints.NotBlank;
